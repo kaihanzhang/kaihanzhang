@@ -8,8 +8,10 @@ Kaihan Zhang is a Ph.D. candidate at the Graduate School of Mobility, Korea Adva
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI and GIScience for addressing urban issues**
+- **Human Mobility and Travel Behavior**
+- **Emerging mobility solutions (e.g. air mobility, electric vehicle)**
+- **Large Language Models (LLMs)**
 
 ## News
 
