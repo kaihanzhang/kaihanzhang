@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Kaihan Zhang is a Ph.D. candidate at the Graduate School of Mobility, Korea Advanced Institute of Science and Technology (KAIST). His research focuses on the intersection of urban data science, human behavior, and urban mobility. Specifically, he advances urban science by integrating advanced AI into spatiotemporal data analysis to examine human behavior, characterizing urban environmental dynamics, and design innovative mobility solutions.
 
 ## Research Interests
 
