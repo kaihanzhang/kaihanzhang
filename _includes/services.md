@@ -11,6 +11,11 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li>Journal of Transport Geography</li>
+  <li>Transportation Research Part D: Transport and Environment</li>
+  <li>Transportation Research Part A: Policy and Practice</li>
+  <li>Engineering Applications of Artificial Intelligence</li>
+  <li>Frontiers of Engineering Management</li>
+  <li>Journal of Urban Mobility</li>
+  <li>Communications in Transportation Research</li>
 </ul>
