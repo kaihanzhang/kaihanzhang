@@ -1,22 +1,43 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Synergistic role of audio-visual perceptions in promoting bikeshare for active travel"
+    authors: Zhang, Kaihan., Song, Qiwei., Ma, Haoran., Qiu, Waishan., Li, Meikang., & *Kim, Inhi
+    conference_short: TRD
+    conference: Transportation Research Part D, Transport and Environment, 145, 104806, 2025
+    pdf: https://doi.org/10.1016/j.trd.2025.104806
+    image: ./assets/img/pub1.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Exploring fatal/severe pedestrian injury crash frequency at school zone crash hotspots: using interpretable machine learning to assess the micro-level street environment"
+    authors: Zhang, Kaihan., Tamakloe, Reuben., Mengqiu Cao., *Kim, Inhi
+    conference_short: JTG
+    conference: Journal of Transport Geography, 121, 104034, 2024
+    pdf: https://doi.org/10.1016/j.jtrangeo.2024.104034
+    image: ./assets/img/pub2.png
+
+  - title: "Illuminating the path to more equitable access to urban parks"
+    authors: Zhang, Kaihan., Shang, Wen-long., De Vos, Jonas., Zhang, Yuerong., & *Cao, Mengqiu
+    conference_short: SR
+    conference: Scientific Reports, 15(1), 1-13, 2025
+    pdf: https://doi.org/10.1038/s41598-025-94110-1
+    image: ./assets/img/pub3.png
+
+  - title: "Weather effects on highway travel volume: Electric vs. Fuel vehicles"
+    authors: Cui, Qinyu., Huang, Chaoshuo., Zhang, Kaihan., Gao, Chao., Gu, Tianshun., Ke, Entong., & *Lin, Peiqun
+    conference_short: TRD
+    conference: Transportation Research Part D, Transport and Environment, 145, 104805, 2025
+    pdf: https://doi.org/10.1016/j.trd.2025.104805
+    image: ./assets/img/pub4.png
+
+  - title: "Navigating Heat Exposure: Simulation of Route Planning Based on Visual Language Model Agents"
+    authors: Ma, Haoran., Zhang, Kaihan., & *Cai, Jiannan
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2503.12731, 2025
+    pdf: https://doi.org/10.48550/arXiv.2503.12731
+    image: ./assets/img/pub5.png
+
+  - title: "How about electric vehicle? Sensing owners' experiences and attitudes through online short video"
+    authors: Cui, Qinyu., Zhang, Yan., Ma, Haoran., Zhang, Kaihan., Peng, Jinhan., *Lin, Peiqun., & Lin, Zhenhong
+    conference_short: TP
+    conference: Transport Policy, 167, 1-15, 2025
+    pdf: https://doi.org/10.1016/j.tranpol.2025.03.012
+    image: ./assets/img/pub6.png
