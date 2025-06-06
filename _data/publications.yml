@@ -21,6 +21,16 @@ main:
     pdf: https://doi.org/10.1038/s41598-025-94110-1
     image: ./assets/img/pub3.png
 
+  - title: "Free interchange for better transit? Assessing the multi-dimensional impacts on metro to bus interchange behavior− insights from an explainable machine learning method"
+    authors: Gu, Tianqi., Zhang, Kaihan., Xu, Weiping., Zhuang, Chutian., Jiang, Zhonghui., Kim, Inhi., & *Chung, Hyungchul
+    journal: Travel Behaviour and Society
+    volume: 38
+    pages: 100923
+    year: 2025
+    doi: https://doi.org/10.1016/j.tbs.2024.100923
+    image: tbs.png
+    preview: tbs.png
+
   - title: "Weather effects on highway travel volume: Electric vs. Fuel vehicles"
     authors: Cui, Qinyu., Huang, Chaoshuo., Zhang, Kaihan., Gao, Chao., Gu, Tianshun., Ke, Entong., & *Lin, Peiqun
     conference_short: TRD
