@@ -1,22 +1,21 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Kaihan Zhang
+position: PH.D. Candidate
+affiliation: KAIST
+email: kaihn@kaist.ac.kr
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: Your description here
+canonical: https://kaihanzhang.github.io/kaihanzhang/
 
 # Links 
+github_link: https://github.com/kaihanzhang
+# ...existing code...
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
+google_scholar: https://scholar.google.com/citations?user=OziBExQAAAAJ&hl=zh-CN
 github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+linkedin: https://www.linkedin.com/in/kaihan-zhang-152676210/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
